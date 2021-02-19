@@ -9,6 +9,11 @@ and open the template in the editor.
 */
 
 .jumbotron {
-    padding: 4rem 27rem;
+    padding: 3rem 27rem;
+}
+
+.h1, h1 {
+    font-size: 2.5rem;
+    margin-top: 25px;
 }
 
