@@ -3,6 +3,9 @@
     "attributes": {
         "integrity": {
             "context": "link"
+        },
+        "img\"": {
+            "context": "div"
         }
     }
 }
