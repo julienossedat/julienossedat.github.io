@@ -9,12 +9,17 @@ and open the template in the editor.
 */
 
 .jumbotron {
-    padding: 4rem 32rem;
+    padding: 4rem 23rem;
 }
 
 body { padding-top: 50px; }
 .cadreCV { padding-bottom: 15px; background: white; }
 
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 10px;
+    margin-bottom: .5rem;
+}
 
 /****************************************
 * En-tête du CV
@@ -97,6 +102,13 @@ body { padding-top: 50px; }
 .meContacter a:hover>img { filter: grayscale(0); -webkit-filter: grayscale(0);
                            -moz-filter: grayscale(0); -ms-filter: grayscale(0);
                            -o-filter: grayscale(0); } 
+
+/******************************************
+* Langues
+******************************************/
+#langues .container { display: flex; flex-direction: row; justify-content: space-between; }
+#langues .langue, #langues .niveau{ font-size: 1em; }
+#langues .langue { padding-top: 3px; } 
 
 
 /******************************************
