@@ -9,7 +9,8 @@ and open the template in the editor.
 */
 
 .jumbotron {
-    padding: 4rem 23rem;
+    padding: 4rem 31rem;
+    padding-bottom: 2px;
     margin-bottom: 0rem;
 }
 
@@ -109,7 +110,19 @@ h1, h2, h3, h4, h5, h6 {
 ******************************************/
 #langues .container { display: flex; flex-direction: row; justify-content: space-between; }
 #langues .langue, #langues .niveau{ font-size: 1em; }
-#langues .langue { padding-top: 3px; } 
+#langues .langue { padding-top: 3px; font-weight: bold;} 
+
+.badge {
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 100%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+}
 
 
 /******************************************
@@ -117,10 +130,10 @@ h1, h2, h3, h4, h5, h6 {
 ******************************************/
 #competences .container {
     display: flex; flex-direction: row; justify-content: space-between; }
-#competences .container .libelle { font-size: 1.3em; }
+#competences .container .libelle { font-size: 1.3em; font-weight: bold;}
 #competences .container .classement {
     background: scroll transparent url(images/Red-Rating-Stars.png) no-repeat;
-    width: 160px; height: 27px; }
+    width: 160px; height: 27px; margin-right: 60px;}
 #competences .container .classement0 { background-position: 0 -142px; }
 #competences .container .classement1 { background-position: 0 -112px; }
 #competences .container .classement2 { background-position: 0 -84px; }
