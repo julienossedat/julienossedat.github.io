@@ -10,6 +10,7 @@ and open the template in the editor.
 
 .jumbotron {
     padding: 4rem 23rem;
+    margin-bottom: 0rem;
 }
 
 body { padding-top: 50px; }
