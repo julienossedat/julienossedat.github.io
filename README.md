@@ -2,7 +2,7 @@
 ---
 ### Objectifs :
 **1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio**
-| ![NetBeans](https://github.com/julienossedat/julienossedat.github.io/blob/main/netbeanss.png?raw=true) | ![html5](https://github.com/julienossedat/julienossedat.github.io/blob/main/Html5.png?raw=true) | ![css3](https://github.com/julienossedat/julienossedat.github.io/blob/main/css3.0.png?raw=true) | ![bootstrap](https://github.com/julienossedat/julienossedat.github.io/blob/main/bts.png?raw=true) | ![git](https://github.com/julienossedat/julienossedat.github.io/blob/main/SQUAD-logo-Gitt.png?raw=true) | ![github](https://github.com/julienossedat/julienossedat.github.io/blob/main/gthub.png?raw=true) |
+| ![NetBeans](https://github.com/julienossedat/julienossedat.github.io/blob/main/ImagesReadme/netbeanss.png?raw=true) | ![html5](https://github.com/julienossedat/julienossedat.github.io/blob/main/ImagesReadme/Html5.png?raw=true) | ![css3](https://github.com/julienossedat/julienossedat.github.io/blob/main/ImagesReadme/css3.0.png?raw=true) | ![bootstrap](https://github.com/julienossedat/julienossedat.github.io/blob/main/ImagesReadme/bts.png?raw=true) | ![git](https://github.com/julienossedat/julienossedat.github.io/blob/main/ImagesReadme/SQUAD-logo-Gitt.png?raw=true) | ![github](https://github.com/julienossedat/julienossedat.github.io/blob/main/ImagesReadme/gthub.png?raw=true) |
 | ------ | ------ | ------- | ------ | ------ | ------ |
 
 - **NetBeans** : Environnement de développement intégré (IDE) utilisé pour ce projet
