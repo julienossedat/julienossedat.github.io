@@ -14,8 +14,8 @@ and open the template in the editor.
     
 }
 
-body { padding-top: 50px; background-color: #054063; color : #ffffff; }
-.cadreCV { padding-bottom: 15px; background: #2967a5; color: #ffffff; }
+body { padding-top: 50px; background-color: #01263c; color : #ffffff; }
+.cadreCV { padding-bottom: 15px; background: #25517d; color: #ffffff; }
 
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 #parcours .date .glyphicon-record::before { background: #FFFFFF; color: #555; }
 #parcours .date { width: 75px; background-color: rgba(0, 0, 0, 0); font-size: 1.5em;
                   font-weight: 700; display: inline-block; }
-#parcours .details { width: 325px; display: inline-block; background: #eee;
+#parcours .details { width: 325px; display: inline-block; background: #436c94;
                      position: relative; padding: 10px 10px 0 10px;
                      border-bottom: 1px solid #ddd; margin: -4px -12px 20px 0; }
 #parcours .details::after { content: ''; position: absolute; top: 15px; right: 0;
