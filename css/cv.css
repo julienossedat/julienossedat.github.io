@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 /****************************************
 * En-tête du CV
 ****************************************/
-#cv-entete { margin-top: -45px; width: 100%;}
+#cv-entete {width: 100%;}
 #cv-photo { width: 172px; height: 172px; border-radius: 50%; overflow: hidden; padding: 5px;
             background: #eee; display: inline-block; }
 #cv-photo img { width: 160px; height: 160px; border-radius: 50%; }
@@ -141,6 +141,8 @@ h1, h2, h3, h4, h5, h6 {
 #competences .container .classement4 { background-position: 0 -28px; }
 #competences .container .classement5 { background-position: 0 0px; } 
 
-.container {
-    padding-right: 85px;
-}
+
+@media (min-width: 1500px) { .container {padding-right: 85px;} 
+}                   
+@media (min-width: 1500px) { #cv-entete { margin-top: -45px;} 
+}    
