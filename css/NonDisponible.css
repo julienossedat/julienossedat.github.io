@@ -14,13 +14,13 @@ img{
 }
 
 .jumbotron{
-    padding: 0rem 15rem;
     background-color: #25517d
 }
 
-.jumbotron.text-center{
-    padding: 1rem 15rem;
+@media (min-width: 1500px) { .jumbotron { padding: 0rem 15rem; background-color: #25517d; }                   
 }
+@media (min-width: 1500px) { .jumbotron.text-center{ padding: 1rem 15rem; }
+}                   
 
 body{
     background-color: #01263c;
