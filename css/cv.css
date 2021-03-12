@@ -146,3 +146,5 @@ h1, h2, h3, h4, h5, h6 {
 }                   
 @media (min-width: 1500px) { #cv-entete { margin-top: -45px;} 
 }    
+@media (max-width: 700px) { .col-9 { padding-left: 40px; } 
+}   
