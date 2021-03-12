@@ -13,10 +13,7 @@ and open the template in the editor.
     margin-top: 25px;
 }
 
-.jumbotron {
-    padding: 2rem 30rem;
-    background-color: #25517d
-}
+.jumbotron { background-color: #25517d; }   
 
 img {
     vertical-align: middle;
@@ -36,3 +33,7 @@ body {
     text-align: left;
     background-color: #01263c;
 }
+
+@media (min-width: 1500px) { .jumbotron { padding: 2rem 30rem; background-color: #25517d; }                   
+}
+
